@@ -1,3 +1,8 @@
+###################################################################
+# HERRAMIENTA CREADA AL 100% POR [ Matitos#9999 ]                 #
+# EL USO DEL CÓDIGO DE ESTA HERRAMIENTA PARA OTRAS ESTÁ PROHIBIDO #
+###################################################################
+
 
 import sys
 import os
