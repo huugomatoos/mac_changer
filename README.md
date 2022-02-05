@@ -1,8 +1,6 @@
-# mac_changer
-Mac Changer en español Python3, hecho a mano por Matitos#9999
+# MAC CHANGER
+Herramienta creada para cambiar tu direccion MAC al gusto, desarrollada en python3 y en español.
 
-
-INSTALACION:
 
 # INSTALACIÓN
 
@@ -19,3 +17,7 @@ $ cd mac_changer
 Para iniciar la herramienta:
 
 $ sudo python3 changer.py
+
+# REQUISITOS
+
+Python3
