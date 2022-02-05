@@ -1,2 +1,2 @@
 # mac_changer
-Mac Changer en español Python3
+Mac Changer en español Python3, hecho a mano por Matitos#9999
