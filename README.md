@@ -6,16 +6,16 @@ INSTALACION:
 
 # INSTALACIÓN
 
-Clonamos el repositorio
+Clonamos el repositorio:
 
 $ git clone https://github.com/huugomatoos/mac_changer
 
 
-Nos dirijimos a la ubicacion del archivo
+Nos dirijimos a la ubicacion del archivo:
 
 $ cd mac_changer
 
 
-Para iniciar la herramienta
+Para iniciar la herramienta:
 
 $ sudo python3 changer.py
